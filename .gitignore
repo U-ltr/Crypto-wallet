@@ -172,3 +172,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Игнорируем виртуальное окружение Python
+.venv/
+env/
+
+# Игнорируем Node.js зависимости
+node_modules/
+
+# Игнорируем служебные файлы IDE
+.idea/
+.vscode/
+
+# Кэш Python
+__pycache__/
+*.pyc
