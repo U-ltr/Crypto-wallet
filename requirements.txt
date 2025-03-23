@@ -1,0 +1,23 @@
+# Flask — создание REST API
+flask==2.3.2
+
+# Web3 — взаимодействие с Ethereum
+web3==6.5.0
+
+# PyCryptodome — шифрование (AES, PBKDF2)
+pycryptodome==3.18.0
+
+# requests — HTTP-запросы
+requests==2.31.0
+
+# ecdsa — генерация ключей (SECP256k1)
+ecdsa==0.18.0
+
+# base58 — кодирование адресов
+base58==2.1.1
+
+# solcx (py-solc-x) — компиляция смарт-контрактов
+solcx==0.14.0
+
+# PyQt6 — графический интерфейс (Qt)
+PyQt6==6.5.0
